@@ -4,7 +4,7 @@
 - I'm a second-year Computer Engineering student, and I'm exploring different fields!
   
 # My Skills
-- **Programming Languages: C++(OOP), Python(Basics), PHP(Basics)
+- Programming Languages: C++(OOP), Python(Basics), PHP(Basics)
 - QT framework
 
 
